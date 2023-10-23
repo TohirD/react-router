@@ -1,0 +1,25 @@
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2c2727;
+    padding: 30px 0;
+}
+
+a{
+    text-decoration: none;
+    color: #111;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0 30px;
+    transition: all .5s ease;
+}
+
+a:hover{
+    border-bottom: 1px solid #fff;
+}
+
+h1{
+    text-align: center;
+}
